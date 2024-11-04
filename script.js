@@ -47,7 +47,7 @@ const buttonClick = (target)=>{
             image = document.querySelector("#projectShown img");
             image.setAttribute("src","images/mernShop.PNG");
             link = document.querySelector("#projectShown a");
-            link.setAttribute("href","https://mern-shop-9484.onrender.com");
+            link.setAttribute("href","https://mernshop.azurewebsites.net");
             displayProjectInfo(proj3);
             break;
         case "4":
