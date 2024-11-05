@@ -40,7 +40,7 @@ const buttonClick = (target)=>{
             image = document.querySelector("#projectShown img");
             image.setAttribute("src","images/bugTr.PNG");
             link = document.querySelector("#projectShown a");
-            link.setAttribute("href","bgtrckr.azurewebsites.net");
+            link.setAttribute("href","https://bgtrckr.azurewebsites.net");
             displayProjectInfo(proj2);
             break;
         case "3":
