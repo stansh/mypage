@@ -1,7 +1,7 @@
 export const proj1 = [
   "A full-stack web application built with ReactJS and ASP.NET",
   "The app has a dashboard that displays various KPIs and allows adding and removing records to project, customer and lead lists",
-  "The app is hosted on Azure Web App service while using a Mongo database hosted on Mongo Atlas"
+  "React | ASP.NET |"
 ];
 
 export const proj2 = [
